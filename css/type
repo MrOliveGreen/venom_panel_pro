@@ -1,0 +1,86 @@
+M3U PLUS
+M3U Plus - HLS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=m3u_plus&output=hls
+M3U Plus - MPEGTS    http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=m3u_plus&output=mpegts
+
+
+M3U STANDARD
+HLS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=m3u&output=hls
+MPEGTS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=m3u&output=mpegts
+
+
+ENIGMA 2 OE 1.6
+ HLS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=enigma16&output=hls
+MPEGTS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=enigma16&output=mpegts
+
+ENIGMA 2 OE 2.0 AUTOSCRIPT
+wget -O /etc/enigma2/iptv.sh"http://venomtv.ddns.net:8000/get.php?username=Vigilantex3&password=1234&type=enigma216_script" && chmod 777 /etc/enigma2/iptv.sh && /etc/enigma2/iptv.sh
+
+
+DREAMBOX
+HLS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=dreambox&output=hls
+MPEGTS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=dreambox&output=mpegts
+
+GIGABLUE
+HLS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=gigablue&output=hls
+MPEGTS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=gigablue&output=mpegts
+
+SIMPLE LIST
+HLS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=simple&output=hls
+MPEGTS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=simple&output=mpegts
+
+OCTAGON
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=octagon&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=octagon&output=mpegts
+
+STARLIVE V3/STARSATHD6060/AZCLASS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=starlivev3&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=starlivev3&output=mpegts
+
+STARLIVE V5
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=starlivev5&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=starlivev5&output=mpegts
+
+MEDIASTAR/STARLIVE/GEANT/TIGER
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=mediastar&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=mediastar&output=mpegts
+
+WEB TV LIST
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=webtvlist&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=webtvlist&output=mpegts
+
+ARIVA
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=ariva&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=ariva&output=mpegts
+
+SPARK
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=spark&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=spark&output=mpegts
+
+
+
+GEANT/STARSAT/TIGER/QMAX/HYPER/ROYAL(OLD)
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=gst&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=gst&output=mpegts
+
+FORTEC999/PRIFIX9400/STARTPORT
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=fps&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=fps&output=mpegts
+
+REVOLUTION 60/60 SUNPLUS
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=revosun&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=revosun&output=mpegts
+
+ZORRO
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=zorro&output=hls
+http://venomtveleven.ddns.net:25461/get.php?username=flussieleven&password=flussieleven&type=zorro&output=mpegts

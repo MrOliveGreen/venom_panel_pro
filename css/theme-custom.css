@@ -1,0 +1,26 @@
+.go-right{
+	float: right;
+	position: relative;
+}
+
+.top-reseller{
+	margin-left:-200px;
+	width:200px;
+	margin-top: 15px; 
+	color: white;
+}
+
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
+
+.displayShow {
+	display: show !important;
+}
+
+.displayHide {
+	display: none !important;
+}
